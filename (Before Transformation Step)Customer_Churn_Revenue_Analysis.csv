@@ -1,0 +1,178 @@
+CustomerID,CustomerName,SignupDate,Region,SubscriptionTier,TenureMonths,MonthlyCharges,PaymentMethod,SupportTickets,LastInteractionDate,ChurnStatus
+1002,Lucilia Druitt,07-02-2024,East,Standard,2,159.15,UPI,6,04-04-2025,Active
+1021,Marley Reekie,03-04-2024,South,Basic,15,214.32,PayPal,0,11-05-2025,Churned
+1030,Hedda Schaumann,02-11-2024,North,Enterprise,27,115.23,Credit Card,1,07-04-2026,Active
+1035,Russ Kingscott,03-06-2024,East,Enterprise,3,69.6,PayPal,10,03-02-2025,Churned
+1041,Chase Naisbitt,09-03-2024,West,Basic,6,66.06,Bank Transfer,10,10-05-2026,Churned
+1053,Dionisio Genever,10-08-2024,North,Enterprise,18,175.53,Bank Transfer,9,03-07-2025,Churned
+1063,Vittoria Checchi,10-06-2024,South,Enterprise,21,240.21,Credit Card,2,10-12-2026,Churned
+1079,Cheri Screaton,06-10-2024,South,Enterprise,24,211.2,UPI,3,03-02-2025,Churned
+1087,Neddie Gallant,02-05-2024,East,Basic,30,28.79,Bank Transfer,7,05-04-2025,Churned
+1099,Merill Haithwaite,02-04-2024,South,Standard,33,155.23,PayPal,7,04-10-2025,Active
+1104,Templeton Klimschak,03-02-2024,South,Basic,3,124.09,PayPal,5,02-08-2025,Active
+1109,Serge Henfre,09-03-2024,North,Enterprise,13,143.97,UPI,0,08-07-2026,Active
+1115,Catlaina Haycock,04-08-2024,East,Standard,25,155.42,UPI,1,10-09-2025,Churned
+1128,Enriqueta Deason,10-11-2024,West,Standard,31,19.5,Bank Transfer,0,03-12-2026,Churned
+1129,Ashely Lody,07-07-2024,East,Basic,1,100.04,PayPal,6,01-11-2025,Active
+1131,Lowrance Crabbe,09-02-2024,South,Standard,24,224.02,UPI,0,08-05-2025,Active
+1154,Katine Heathcoat,05-06-2024,East,Basic,32,181.94,Bank Transfer,4,01-08-2026,Active
+1159,Sonya Pheazey,04-10-2024,South,Enterprise,6,26.49,Bank Transfer,7,04-06-2026,Churned
+1162,Thebault Greenin,03-07-2024,South,Basic,30,94.25,Credit Card,5,02-08-2025,Active
+1170,Ally Assandri,06-03-2024,North,Basic,16,208.09,PayPal,5,01-10-2025,Active
+1177,Ari Halms,04-04-2024,North,Enterprise,34,198.27,UPI,3,04-10-2026,Churned
+1182,Aaren Inderwick,03-12-2024,South,Enterprise,30,149.27,Credit Card,9,11-02-2025,Active
+1190,Michele Juniper,07-01-2024,East,Enterprise,1,216.45,Credit Card,1,10-06-2026,Churned
+1214,Cori Rabbitts,12-06-2024,West,Enterprise,5,85.38,PayPal,3,02-07-2026,Active
+1216,Dot Whiteford,07-02-2024,South,Enterprise,11,199.74,Credit Card,3,02-12-2025,Active
+1217,Blanca Aymer,03-07-2024,South,Enterprise,36,229.74,UPI,0,06-12-2025,Churned
+1218,Pearce Panter,07-11-2024,South,Standard,4,211.6,Credit Card,6,09-10-2025,Active
+1220,Leonie Tunn,02-05-2024,South,Basic,10,93.15,UPI,3,02-05-2026,Active
+1226,Rockwell Bowers,07-12-2024,East,Standard,13,188.69,PayPal,6,04-10-2026,Churned
+1232,Vernen Kwietak,09-11-2024,North,Enterprise,30,89.16,Credit Card,2,05-09-2025,Churned
+1236,Elizabeth Culmer,03-07-2024,South,Basic,1,87.25,UPI,7,05-04-2026,Churned
+1248,Wilie Tripon,12-06-2024,North,Standard,30,177.52,UPI,2,05-03-2026,Active
+1262,Abran Hearns,09-03-2024,South,Basic,18,161.95,UPI,3,02-05-2026,Active
+1265,Raoul Dinnis,05-12-2024,West,Enterprise,19,39.74,PayPal,0,02-06-2026,Active
+1275,Elysia Spanton,11-09-2024,West,Enterprise,7,178.49,UPI,3,03-01-2026,Churned
+1276,Kally Valentine,09-10-2024,North,Standard,24,176.1,Credit Card,3,05-07-2026,Active
+1282,Eloisa De Ruggiero,02-02-2024,South,Basic,18,136.73,UPI,10,04-08-2025,Active
+1302,Reggi Bargery,10-11-2024,East,Standard,9,132.76,Bank Transfer,9,03-09-2025,Active
+1303,Shannah Rothermel,01-02-2024,North,Standard,28,22.81,PayPal,5,05-09-2026,Active
+1306,Jaymie Braney,11-04-2024,North,Basic,4,152.45,UPI,9,03-10-2026,Churned
+1307,Feodor Sedgmond,03-10-2024,East,Standard,4,84.11,Credit Card,7,05-05-2026,Active
+1308,Angelita holmes,06-02-2024,South,Enterprise,13,80.16,Credit Card,0,06-11-2026,Churned
+1313,Jo ann Larham,12-05-2024,South,Standard,23,74.39,Bank Transfer,9,06-07-2026,Churned
+1325,Jennilee Rheam,02-11-2024,North,Standard,21,222.34,UPI,0,05-10-2026,Active
+1333,Lorraine Cornwell,11-07-2024,East,Enterprise,21,59.26,PayPal,0,10-05-2026,Active
+1335,Dulci Louedey,06-04-2024,South,Standard,5,210.44,PayPal,6,04-09-2025,Active
+1336,Morgan Chillistone,02-11-2024,East,Standard,22,161.56,UPI,8,11-03-2025,Active
+1337,Willy Butt Gow,04-02-2024,West,Basic,26,20.26,PayPal,7,09-01-2026,Active
+1347,Jacynth Viste,11-05-2024,West,Basic,16,211.61,PayPal,3,08-12-2026,Active
+1355,Merlina Hawford,07-01-2024,North,Enterprise,3,87.67,Credit Card,2,08-12-2026,Active
+1359,Dru Dryburgh,05-02-2024,North,Basic,14,15.88,UPI,6,01-07-2025,Churned
+1363,Sacha Mincini,09-04-2024,South,Enterprise,34,94.44,Credit Card,9,10-08-2025,Active
+1365,Genia Broomer,04-04-2024,West,Standard,10,192.85,UPI,5,11-09-2025,Active
+1371,Stephanus Ionn,04-04-2024,East,Standard,31,248.02,PayPal,5,04-07-2026,Active
+1380,Adolphus Kopfen,12-11-2024,South,Standard,11,47.09,Credit Card,9,04-09-2025,Active
+1381,Trixi De Andreis,11-04-2024,East,Standard,29,51.65,PayPal,3,05-03-2025,Active
+1383,Sonya Blandford,03-03-2024,North,Standard,10,65.7,PayPal,3,04-05-2026,Churned
+1391,Kathie Ilieve,03-07-2024,East,Enterprise,23,160.37,Bank Transfer,7,07-03-2026,Churned
+1394,Kelsi Bastock,05-11-2024,South,Basic,28,226.02,Bank Transfer,6,09-11-2026,Active
+1396,Carmel Sebborn,02-05-2024,North,Standard,16,82.57,Bank Transfer,9,03-11-2025,Churned
+1404,Lowrance Gussie,04-03-2024,North,Basic,32,196.66,Bank Transfer,5,07-11-2026,Churned
+1405,Leesa Hornbuckle,04-05-2024,East,Enterprise,5,218.89,Credit Card,4,01-07-2025,Churned
+1420,Florrie Hasely,07-12-2024,North,Enterprise,14,229.86,PayPal,0,10-01-2026,Active
+1425,Mallorie Labro,02-12-2024,East,Standard,17,103.21,Credit Card,8,01-08-2025,Active
+1426,Barrie Wasbrough,12-08-2024,West,Enterprise,17,67.54,PayPal,8,05-03-2025,Churned
+1429,Grange Claypool,02-08-2024,South,Standard,10,183.88,PayPal,9,05-11-2025,Churned
+1430,Darci Itzkovwich,03-02-2024,South,Standard,19,192.83,UPI,1,11-10-2025,Active
+1431,Emmy Rolfs,02-09-2024,North,Standard,13,51.96,Credit Card,2,03-01-2026,Active
+1437,Dee dee Catley,09-09-2024,West,Basic,32,134.12,Bank Transfer,3,02-02-2025,Churned
+1441,Xena Doncom,06-05-2024,East,Standard,18,248.99,Credit Card,3,12-11-2025,Active
+1448,Thorstein Hadfield,02-04-2024,East,Basic,29,148.96,PayPal,7,05-06-2025,Active
+1451,Prentice Ledekker,11-10-2024,West,Enterprise,2,101.67,UPI,4,01-01-2025,Active
+1459,Siffre Lancastle,01-11-2024,East,Enterprise,17,176.58,Credit Card,7,07-10-2025,Active
+1465,Tedi Keir,12-05-2024,South,Enterprise,9,117.2,PayPal,10,09-11-2026,Churned
+1466,Rivalee Stanistrete,05-11-2024,South,Standard,17,61.96,UPI,5,05-12-2025,Churned
+1470,Kassi Rameau,04-09-2024,East,Basic,20,231.92,UPI,1,10-03-2026,Churned
+1472,Ciro Manifould,03-08-2024,North,Basic,9,17.07,Credit Card,10,11-09-2025,Churned
+1477,Shantee Northern,12-10-2024,West,Enterprise,32,123.14,UPI,0,06-01-2026,Churned
+1481,Mandy Oppie,11-06-2024,East,Basic,4,102.71,Credit Card,5,10-12-2026,Active
+1482,Nikaniki Wilflinger,05-01-2024,East,Enterprise,36,82.86,UPI,2,02-03-2025,Active
+1487,Bettine Malt,10-10-2024,South,Standard,8,203.17,Bank Transfer,7,06-02-2026,Churned
+1492,Jacintha Colcutt,06-11-2024,North,Enterprise,12,172.27,PayPal,3,04-01-2025,Active
+1498,Abbi Gouinlock,05-08-2024,North,Basic,31,116.91,PayPal,3,07-07-2025,Churned
+1506,Leyla Noods,05-10-2024,North,Standard,21,48.56,Bank Transfer,6,09-03-2026,Churned
+1511,Faulkner Cartmell,11-03-2024,South,Standard,5,68.85,UPI,10,08-01-2026,Churned
+1512,Town Collcott,11-04-2024,North,Basic,34,238.83,Bank Transfer,7,08-08-2025,Churned
+1517,De Dendon,04-06-2024,South,Basic,9,161.17,UPI,8,08-01-2025,Active
+1550,Eileen Baybutt,09-08-2024,North,Enterprise,8,19.2,Bank Transfer,3,09-06-2026,Active
+1552,Mendie Curton,12-11-2024,East,Basic,15,157.98,UPI,3,10-08-2026,Churned
+1553,Marc Hale,07-12-2024,East,Standard,8,128.07,Bank Transfer,0,10-12-2025,Churned
+1556,Tamiko Jessel,05-11-2024,East,Standard,30,188.68,Credit Card,0,05-10-2025,Active
+1564,Frederic Aseef,10-01-2024,South,Basic,10,248.3,Credit Card,1,04-06-2025,Churned
+1567,Jake Gawke,12-02-2024,North,Standard,3,142.82,Bank Transfer,3,02-09-2026,Active
+1577,Brodie MacGaffey,01-09-2024,North,Enterprise,25,233.27,Credit Card,6,08-02-2026,Active
+1580,Barrie Shovelin,01-12-2024,North,Enterprise,11,114.68,UPI,3,02-07-2026,Churned
+1590,Margeaux Larkworthy,11-07-2024,West,Basic,14,210.84,UPI,8,04-10-2026,Churned
+1593,Margo Maybury,05-12-2024,West,Standard,18,22.75,Bank Transfer,7,03-04-2025,Active
+1594,Genny Zettler,04-10-2024,North,Enterprise,16,145.64,PayPal,6,08-12-2025,Churned
+1595,Maybelle Lett,05-12-2024,East,Basic,2,160.06,PayPal,4,10-06-2025,Churned
+1598,Alika Pettegre,12-05-2024,North,Enterprise,36,39.45,UPI,8,03-03-2025,Churned
+1601,Evita Hallor,03-08-2024,East,Standard,12,141.97,PayPal,9,04-04-2025,Active
+1603,Philippine Whatford,06-02-2024,West,Enterprise,33,212.33,Bank Transfer,7,05-07-2025,Churned
+1610,Dawn Wessell,06-10-2024,South,Standard,32,213.93,Credit Card,5,04-01-2026,Churned
+1613,Frederica Boman,02-10-2024,South,Standard,34,53.12,Credit Card,3,11-05-2025,Churned
+1618,Alvis Jaeggi,06-12-2024,North,Enterprise,35,135.39,Bank Transfer,6,08-05-2025,Churned
+1625,Jake Silcocks,02-03-2024,East,Basic,28,88.98,UPI,3,05-06-2025,Active
+1629,Ashley Lantoph,02-07-2024,North,Basic,28,232.41,Credit Card,6,02-05-2025,Churned
+1640,Robinet Weatherell,07-07-2024,East,Standard,34,139.59,UPI,7,06-11-2026,Churned
+1646,Susi Jakubowicz,06-06-2024,East,Basic,5,238.19,UPI,3,01-06-2026,Active
+1648,Crawford Mougenel,05-10-2024,North,Standard,21,243.37,Credit Card,5,08-10-2026,Churned
+1650,Xaviera Eilert,05-02-2024,West,Standard,24,90.48,PayPal,3,10-08-2025,Active
+1651,Theodore Haet,09-12-2024,East,Basic,21,213.09,Credit Card,2,05-12-2025,Active
+1652,Kylen Bardnam,11-07-2024,North,Basic,2,22.36,UPI,10,10-01-2026,Churned
+1657,Netty Hayzer,04-01-2024,North,Standard,12,165.61,UPI,10,06-06-2025,Active
+1658,Godard Dufore,01-09-2024,East,Enterprise,4,76.48,UPI,6,03-03-2026,Churned
+1671,Joanie Rides,07-06-2024,North,Standard,29,110.63,Bank Transfer,4,09-06-2026,Churned
+1674,Burtie Petranek,09-08-2024,South,Basic,12,62.74,Bank Transfer,0,07-10-2026,Churned
+1683,Georgiana Wotton,04-05-2024,East,Basic,36,61.63,Credit Card,2,05-08-2025,Churned
+1685,Karleen Dearnley,12-01-2024,East,Basic,30,44.67,Bank Transfer,3,05-01-2025,Churned
+1696,Tracey Bruyntjes,05-10-2024,North,Basic,9,200.25,Bank Transfer,8,09-07-2026,Active
+1700,Braden Clewett,02-08-2024,West,Enterprise,13,110.81,UPI,8,02-04-2025,Active
+1703,Kanya Goold,04-01-2024,North,Enterprise,31,151.26,UPI,3,08-12-2025,Active
+1704,Gennifer Gladdish,05-11-2024,North,Standard,36,208.87,Credit Card,4,03-05-2025,Churned
+1713,Denys Hames,04-01-2024,North,Standard,20,131.11,PayPal,7,10-04-2026,Churned
+1722,Bartolomeo Redshaw,04-08-2024,South,Basic,12,71.1,UPI,4,06-11-2025,Churned
+1723,Florella Hethron,02-04-2024,North,Basic,19,199.33,PayPal,8,10-10-2025,Churned
+1724,Lawry Bloor,01-10-2024,West,Basic,9,95.79,PayPal,1,06-04-2025,Churned
+1726,Balduin Phillpot,04-11-2024,West,Enterprise,19,152.67,PayPal,2,02-10-2025,Churned
+1736,Travis Woodlands,04-04-2024,North,Basic,29,117.36,Bank Transfer,6,06-04-2026,Active
+1739,Evelyn Mushett,06-03-2024,West,Standard,9,51.89,Credit Card,7,02-10-2026,Churned
+1740,Padraig Boniface,06-02-2024,North,Enterprise,28,44.9,Bank Transfer,1,03-05-2026,Churned
+1752,Celene MacShane,07-02-2024,South,Basic,34,187.8,PayPal,7,05-03-2026,Churned
+1756,Ray Cowope,01-12-2024,North,Standard,14,157.47,Credit Card,6,08-01-2026,Active
+1770,Dorine Simmons,01-08-2024,West,Standard,31,133.28,Credit Card,6,10-08-2026,Churned
+1772,Coraline Demonge,01-08-2024,South,Standard,11,216.32,Credit Card,1,09-10-2025,Churned
+1782,Dory Tilson,08-08-2024,East,Enterprise,18,198.46,Bank Transfer,1,06-09-2025,Churned
+1789,Ursuline Walkinshaw,01-04-2024,South,Standard,5,234.22,Credit Card,9,04-06-2025,Churned
+1792,Jarad Ausher,05-11-2024,West,Enterprise,1,180.14,Bank Transfer,2,01-11-2025,Churned
+1793,Vanny Pankhurst.,05-09-2024,West,Basic,4,249.75,Credit Card,6,10-02-2025,Active
+1795,Lira Sheehan,01-08-2024,North,Enterprise,28,168.35,Credit Card,6,07-01-2025,Active
+1798,Alana Hatfull,05-09-2024,East,Basic,27,64.68,Bank Transfer,8,03-03-2026,Churned
+1799,Demetris Grimestone,06-12-2024,South,Enterprise,17,19.27,Credit Card,0,08-10-2026,Active
+1803,Kerry Bednall,12-11-2024,South,Standard,4,40.85,Credit Card,5,03-03-2025,Churned
+1804,Augustina Jeffries,07-09-2024,West,Standard,17,179.22,PayPal,10,01-12-2025,Churned
+1821,Kai Sprackling,10-08-2024,North,Enterprise,9,85.21,PayPal,9,10-11-2025,Churned
+1824,Drusi Davenhill,02-08-2024,West,Basic,14,131.01,PayPal,8,01-05-2025,Churned
+1830,Felike Edwinson,06-12-2024,South,Standard,26,181.61,Bank Transfer,4,08-12-2025,Active
+1836,Leia Niessen,06-07-2024,East,Basic,4,115.13,PayPal,3,09-06-2026,Churned
+1847,Sherline Ide,05-03-2024,North,Basic,15,58.83,Credit Card,0,07-05-2026,Churned
+1849,Aubrey Macknish,04-03-2024,East,Basic,14,142.39,Credit Card,9,11-06-2025,Churned
+1852,Marcile Vido,03-04-2024,South,Basic,34,152.26,PayPal,10,05-05-2025,Active
+1871,Misha Janacek,05-12-2024,South,Basic,10,223.31,Bank Transfer,7,07-02-2025,Active
+1877,Amory Kitteridge,05-05-2024,East,Standard,11,159.65,Credit Card,9,08-01-2026,Churned
+1881,Scarlett Janning,01-06-2024,East,Standard,28,159.8,Credit Card,2,04-03-2025,Churned
+1883,Beltran Romaine,08-12-2024,North,Basic,15,192.69,PayPal,9,10-08-2026,Active
+1885,Dulcea de Guise,01-12-2024,West,Enterprise,17,147.61,Bank Transfer,7,08-07-2026,Churned
+1895,Juditha Bartomeu,07-06-2024,West,Standard,13,206.62,PayPal,1,08-09-2026,Active
+1896,Kellina Duggan,09-01-2024,North,Basic,5,167.87,Bank Transfer,6,05-07-2025,Active
+1897,Merlina Dibbe,01-03-2024,East,Enterprise,16,183.52,Bank Transfer,1,04-03-2025,Active
+1901,Jason Murfett,12-11-2024,North,Basic,24,151.62,UPI,2,03-02-2025,Active
+1906,Teodorico Steele,02-01-2024,North,Basic,7,96.55,UPI,1,01-04-2025,Churned
+1917,Carina Langwade,11-09-2024,East,Basic,25,176.56,UPI,6,05-12-2026,Active
+1920,Zeke Farron,08-10-2024,South,Basic,25,205.47,Credit Card,0,02-07-2026,Churned
+1921,Marybelle Staynes,03-10-2024,West,Standard,25,215.54,PayPal,9,07-08-2025,Churned
+1931,Cornell Bracknall,06-12-2024,South,Standard,25,210.75,PayPal,9,07-12-2026,Churned
+1936,Hayden Wilman,03-01-2024,East,Enterprise,1,65.39,PayPal,3,01-09-2026,Churned
+1944,Felecia Nardi,08-03-2024,West,Standard,34,230.11,Credit Card,3,06-12-2025,Churned
+1951,Raviv Mulberry,02-06-2024,East,Enterprise,7,244.94,UPI,8,12-12-2025,Active
+1952,Ethan Mithun,06-05-2024,East,Standard,6,57.2,Credit Card,4,05-03-2026,Active
+1961,Kirstyn Armit,06-11-2024,West,Standard,28,213.6,Credit Card,10,03-12-2025,Churned
+1964,Randene Poulton,02-09-2024,East,Standard,18,39.08,UPI,3,10-05-2026,Churned
+1968,Abbye Thurlbourne,03-09-2024,North,Enterprise,33,211.58,Credit Card,1,03-08-2026,Active
+1972,Gardener Ryce,06-05-2024,East,Standard,2,51.86,Credit Card,10,12-07-2025,Active
+1975,Sayers Talboy,12-02-2024,East,Enterprise,9,112.71,Bank Transfer,7,05-12-2025,Active
+1984,Tana Kelloway,06-01-2024,North,Enterprise,35,119.43,PayPal,2,09-04-2025,Churned
+1993,Robinetta Blackstock,09-12-2024,South,Enterprise,2,136.15,Credit Card,7,12-06-2025,Churned
+2000,Dalli Howselee,08-09-2024,South,Standard,29,95.57,Credit Card,9,06-08-2026,Active
