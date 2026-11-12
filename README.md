@@ -86,8 +86,7 @@ The `Executive_Dashboard` tab provides a clean, web-app-style interface designed
 
 
 ```
-<img width="1365" height="627" alt="image" src="https://github.com/user-attachments/assets/6fcd7557-c1fa-4c89-b548-e29c064c0fb2" />
-
+Refer Applied Step and Dashboard image which I upload to get more information.
 
 
 
