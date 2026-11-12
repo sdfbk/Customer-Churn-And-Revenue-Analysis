@@ -84,12 +84,10 @@ The `Executive_Dashboard` tab provides a clean, web-app-style interface designed
 
 5. **Global Slicers:** Interactive `Region` and `PaymentMethod` slicers connected via **Report Connections** to filter all charts simultaneously.
 
-*(Note: Add screenshots of your completed dashboard and Power Query Applied Steps here before publishing to GitHub!)*
 
 ```
-<img width="1385" height="637" alt="Customer Churn and Revenue Analysis Dashboard" src="https://github.com/user-attachments/assets/312f4e1c-60e1-41b2-95c3-551b9e13b1cf" />
+<img width="1365" height="627" alt="image" src="https://github.com/user-attachments/assets/6fcd7557-c1fa-4c89-b548-e29c064c0fb2" />
 
-<img width="308" height="240" alt="Applied Steps" src="https://github.com/user-attachments/assets/890a2da7-6a26-4b61-84c3-964bf9425d20" />
 
 
 
